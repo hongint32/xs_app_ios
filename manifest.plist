@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://test.zhxcf.com/test/test-iPad%20(4th%20generation)-etc.ipa</string>
+					<string>http://test.zhxcf.com/zq.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -58,7 +58,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://test.zhxcf.com/test/test-iPad%202-etc.ipa</string>
+					<string>http://test.zhxcf.com/zq.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -74,7 +74,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://test.zhxcf.com/test/test-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
+					<string>http://test.zhxcf.com/zq.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -106,7 +106,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://test.zhxcf.com/test/test-iPhone%206%20Plus-etc.ipa</string>
+					<string>http://test.zhxcf.com/zq.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -123,7 +123,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://test.zhxcf.com/test/test-iPhone%20SE-etc.ipa</string>
+					<string>http://test.zhxcf.com/zq.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
@@ -142,7 +142,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://test.zhxcf.com/test/test-iPod%20touch-etc.ipa</string>
+					<string>http://test.zhxcf.com/zq.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone5,2</string>
